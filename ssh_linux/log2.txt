@@ -1,0 +1,32 @@
+сен 27 23:11:18 ly-Linux sshd[10862]: pam_unix(sshd:session): session closed for user user2
+сен 27 23:11:18 ly-Linux systemd[1]: session-23.scope: Deactivated successfully.
+сен 27 23:11:18 ly-Linux systemd-logind[654]: Session 23 logged out. Waiting for processes to exit.
+сен 27 23:11:18 ly-Linux systemd-logind[654]: Removed session 23.
+сен 27 23:11:18 ly-Linux sshd[10904]: Accepted password for user2 from 127.0.0.1 port 56438 ssh2
+сен 27 23:11:18 ly-Linux sshd[10904]: pam_unix(sshd:session): session opened for user user2(uid=1002) by (uid=0)
+сен 27 23:11:18 ly-Linux sshd[10904]: pam_unix(sshd:session): session closed for user user2
+сен 27 23:11:18 ly-Linux systemd-logind[654]: New session 24 of user user2.
+сен 27 23:11:18 ly-Linux snapd-desktop-i[10540]: Detected new session 24 at /org/freedesktop/login1/session/_324
+сен 27 23:11:18 ly-Linux systemd[1]: Started Session 24 of User user2.
+сен 27 23:11:18 ly-Linux systemd[1]: session-24.scope: Deactivated successfully.
+сен 27 23:11:18 ly-Linux systemd-logind[654]: Session 24 logged out. Waiting for processes to exit.
+сен 27 23:11:18 ly-Linux systemd-logind[654]: Removed session 24.
+сен 27 23:11:18 ly-Linux sshd[10944]: Accepted password for user2 from 127.0.0.1 port 56448 ssh2
+сен 27 23:11:18 ly-Linux sshd[10944]: pam_unix(sshd:session): session opened for user user2(uid=1002) by (uid=0)
+сен 27 23:11:18 ly-Linux systemd-logind[654]: New session 25 of user user2.
+сен 27 23:11:18 ly-Linux snapd-desktop-i[10540]: Detected new session 25 at /org/freedesktop/login1/session/_325
+сен 27 23:11:18 ly-Linux systemd[1]: Started Session 25 of User user2.
+сен 27 23:11:19 ly-Linux sshd[10944]: pam_unix(sshd:session): session closed for user user2
+сен 27 23:11:19 ly-Linux systemd[1]: session-25.scope: Deactivated successfully.
+сен 27 23:11:19 ly-Linux systemd[1]: session-25.scope: Consumed 1.735s CPU time.
+сен 27 23:11:19 ly-Linux systemd-logind[654]: Session 25 logged out. Waiting for processes to exit.
+сен 27 23:11:19 ly-Linux systemd-logind[654]: Removed session 25.
+сен 27 23:11:20 ly-Linux sshd[10989]: Accepted password for user2 from 127.0.0.1 port 56450 ssh2
+сен 27 23:11:20 ly-Linux sshd[10989]: pam_unix(sshd:session): session opened for user user2(uid=1002) by (uid=0)
+сен 27 23:11:20 ly-Linux systemd-logind[654]: New session 26 of user user2.
+сен 27 23:11:20 ly-Linux snapd-desktop-i[10540]: Detected new session 26 at /org/freedesktop/login1/session/_326
+сен 27 23:11:20 ly-Linux systemd[1]: Started Session 26 of User user2.
+сен 27 23:11:20 ly-Linux sshd[10989]: pam_unix(sshd:session): session closed for user user2
+сен 27 23:11:20 ly-Linux systemd[1]: session-26.scope: Deactivated successfully.
+сен 27 23:11:20 ly-Linux systemd-logind[654]: Session 26 logged out. Waiting for processes to exit.
+сен 27 23:11:20 ly-Linux systemd-logind[654]: Removed session 26.
